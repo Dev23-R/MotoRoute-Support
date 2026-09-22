@@ -41,4 +41,4 @@ See the full [privacy policy](https://dev23-r.github.io/MotoRoute-Support/privac
 
 ---
 
-© 2026 Devon Ritchie
+© 2026 MotoRoute
